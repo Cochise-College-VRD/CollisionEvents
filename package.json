@@ -1,0 +1,13 @@
+{
+  "name": "com.cochisecollege.collisionevents",
+  "version": "0.0.1",
+  "displayName": "Collision Events",
+  "description": "A simple implementation to allow for use of the UnityEvent system for collision and trigger callbacks.",
+
+  "author":
+  {
+	  "name": "Tim McDaniel",
+	  "email": "vrdprogram@cochise.edu",
+	  "url": "https://www.cochise.edu"
+  }
+}
