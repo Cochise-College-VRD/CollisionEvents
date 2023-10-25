@@ -1,6 +1,6 @@
 {
   "name": "com.cochisecollege.collisionevents",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Collision Events",
   "description": "A simple implementation to allow for use of the UnityEvent system for collision and trigger callbacks.",
 
